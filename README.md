@@ -1,5 +1,6 @@
 Tutorial WS1
 # Titanic Deaths and Survivors Analysis
+Data Summary:
 1. Data set
 2. How many passengers survived?
 3. What is the distribution of passenger class?
@@ -8,4 +9,4 @@ Tutorial WS1
 6. Save data set
 7. Logistic regression
 
-! [](https://github.com/sm2302/labs-titanic-aknabil/blob/main/pred_prob_surv.png?raw=true)
+![](https://github.com/sm2302/labs-titanic-aknabil/blob/main/pred_prob_surv.png?raw=true)
