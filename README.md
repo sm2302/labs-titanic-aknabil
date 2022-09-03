@@ -9,5 +9,5 @@ Data Summary include:
 - Save data set
 - Logistic regression
 
-Data below shows passengers' probability of survival by age and sex
+Data below shows passengers' probability of survival by age, taking classes and sex into account.
 ![](https://github.com/sm2302/labs-titanic-aknabil/blob/main/pred_prob_surv.png?raw=true)
